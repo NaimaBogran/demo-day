@@ -11,21 +11,21 @@ This project emphasizes responsive design, real-time collaboration concepts, and
 
 ---
 
-<img width="1719" height="812" alt="image" src="https://github.com/user-attachments/assets/ba9b1575-4aeb-482e-b347-c190bd91f6c1" />
+<img width="1719" height="812" alt="image" src="img/readME-img.png" />
 
 
 ## ✨ Features
 
-* **Responsive Design:** A clean, mobile-first design that looks great on any device, from phones to desktops.
-* **Score Tracking:** Keeps a running score for Player X and Player O that persists across multiple rounds.
-* **Game History & Replay:** Allows the user to step through every move of the previous game with "Previous" and "Next" controls.
-* **Dynamic Animations:** Features smooth, animated transitions for the game title and a satisfying line that draws across the winning pattern.
-* **Sound Effects:** Includes audio feedback for each move and a victory sound to enhance the user experience.
+* **Smart Matching Filters:** Connect with others based on shared interests, job titles, or study topics.
+* **Pomodoro Integration:** Focus with timed work sessions and breaks to boost productivity.
+* **Seamless Virtual Collaboration:** Meet, chat, and work alongside peers in real time.
+* **Mondern UI Components:** Rounded cards, shadowed buttons, and minimalist typography inspired by productivity apps.
+* **Scalable Structure:** Built with reusable HTML and CSS components for easy future expansion (e.g., chat, scheduling, and video integration).
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** HTML5, CSS3 (Flexbox, CSS Animations), Vanilla JavaScript (ES6+)
-* **Core Concepts:** DOM Manipulation, Advanced Event Handling (Event Delegation), and Client-Side State Management.
+* **Frontend:** HTML5, CSS3 (Flexbox, Responsive Design), Vanilla JavaScript (ES6+)
+* **Core Concepts:** DOM Manipulation, Event Handling, Modular Layout Structure, and User Interface Design Principles
 * **Deployment:** Netlify
 
 ## 🚀 Getting Started
@@ -34,11 +34,9 @@ To get a local copy up and running, follow these steps.
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/manassx/tic-tac-toe-js-game.git
+    git clone https://github.com/NaimaBogran/body-double.git
     ```
 2.  Open `index.html` in your browser.
 
-## Contact
 
-**Manas Saxena** - [LinkedIn](https://www.linkedin.com/in/saxenamanas/)
 
