@@ -1,2 +1,44 @@
-# demo-day
+# BODY/DOUBLE
+This project is unfinished
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+BODY/DOUBLE is a modern web application inspired by Omegle that helps users find accountability partners for work, study, or creative projects.
+The platform allows users to connect with others who share similar goals, job titles, or classes — and integrate focus sessions using the Pomodoro technique to stay productive together.
+
+This project emphasizes responsive design, real-time collaboration concepts, and clean UI/UX principles.
+**🎮 Live Demo:** [https://bodydouble.netlify.app/](https://bodydouble.netlify.app/)
+
+---
+
+<img width="1719" height="812" alt="image" src="https://github.com/user-attachments/assets/ba9b1575-4aeb-482e-b347-c190bd91f6c1" />
+
+
+## ✨ Features
+
+* **Responsive Design:** A clean, mobile-first design that looks great on any device, from phones to desktops.
+* **Score Tracking:** Keeps a running score for Player X and Player O that persists across multiple rounds.
+* **Game History & Replay:** Allows the user to step through every move of the previous game with "Previous" and "Next" controls.
+* **Dynamic Animations:** Features smooth, animated transitions for the game title and a satisfying line that draws across the winning pattern.
+* **Sound Effects:** Includes audio feedback for each move and a victory sound to enhance the user experience.
+
+## 🛠️ Tech Stack
+
+* **Frontend:** HTML5, CSS3 (Flexbox, CSS Animations), Vanilla JavaScript (ES6+)
+* **Core Concepts:** DOM Manipulation, Advanced Event Handling (Event Delegation), and Client-Side State Management.
+* **Deployment:** Netlify
+
+## 🚀 Getting Started
+
+To get a local copy up and running, follow these steps.
+
+1.  Clone the repository:
+    ```sh
+    git clone https://github.com/manassx/tic-tac-toe-js-game.git
+    ```
+2.  Open `index.html` in your browser.
+
+## Contact
+
+**Manas Saxena** - [LinkedIn](https://www.linkedin.com/in/saxenamanas/)
 
